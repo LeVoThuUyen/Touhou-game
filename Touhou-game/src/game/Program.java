@@ -5,9 +5,7 @@ import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-/**
- * Created by huynq on 7/4/17.
- */
+
 public class Program {
     public static void main(String[] args) {
         JFrame window = new JFrame();
